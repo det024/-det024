@@ -1,2 +1,1 @@
-print('привет')
-print("как дела ????")
+print('Hello Teacher 😁')
